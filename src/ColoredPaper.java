@@ -28,7 +28,6 @@ public class ColoredPaper {
                 if(sketch[a][b] >= 2){
                     cnt += (sketch[a][b] - 1);
                 }
-
             }
         }
 
