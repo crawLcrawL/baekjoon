@@ -1,3 +1,5 @@
+//baekjoon 2292
+
 import java.io.*;
 
 public class Honeycomb {
